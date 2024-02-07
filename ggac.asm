@@ -1,12 +1,12 @@
 *  Checked out to T2400036 from Prod Online t2400026 on 02/07/24
 *  Checked out to T2400026 from Prod Online dpaat3.idxd on 01/29/24
          BEGIN NAME=GGDE,VERSION=Q1                                                         
-*@01     BEGIN NAME=GGDE,VERSION=Q0
-* (C) 1997-2001 GALILEO INTERNATIONAL.ALL                                                 
-*@OS****************** SEGMENT DESCRIPTION ****************************
-*                                                                     *
+*@01     BEGIN NAME=GGDE,VERSION=Q0                                                  
+* (C) 1997-2001 GALILEO INTERNATIONAL.ALL                                                                                                                          
+*@OS****************** SEGMENT DESCRIPTION ****************************                           
+*                                                                     *                                             
 *        PROJECT             : WE2847                                 *
-*        PROGRAMMER          : ANATOLI CHOULGA                        *
+*        PROGRAMMER          : ANATOLI                                                    
 *        DATE                : MAY 1997                               *
 *        DRIVER SEGMENT      : RIK2                                   *
 *        SEGMENT DESCRIPTION :                                        *
@@ -21,7 +21,7 @@
 *                                                                     *                                  
 *     THIS SEGMENT CALLED BY:                                         *                                             
 *     -------------------------------                                              
-*     RIK2                                                                                                 
+*     RIK2                                        
 *                                                            
 *     THIS SEGME                                                            
 *     -------------------------------                                 *
