@@ -40,9 +40,9 @@
 *@OA******************  AMENDMENTS TO SEGMENT *************************
 *  @##    PROGRAMMER NAME      INT      PROJ #           LOADDATE     *
 * ------------------------------------------------------------------- *
-*  @01    PARSHANT CHANANA     PCX1     PL2143.          10/07/2001@01*
-*         DENVER CONTACT : ERIC SALEMI                             @01*
-*         AAT ORDINAL EXPANSION                                    @01*
+*  @01    PARSHANT CHANANA     PCX1     PL2143                            
+*         DENVER CONTACT : ERIC                                            
+*         AAT ORDINAL EXPANSION                        
 *         READING THE NEW EXPANDED FOUR BYTE AAT ORDINAL FROM      @01*
 *         FIELD 'WA0NOI'INSTEAD OF TWO BYTES OF  FIELD 'WA0OUR'.   @01*
 *@END******************************************************************
