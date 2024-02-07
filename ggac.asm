@@ -20,10 +20,10 @@
 *@OX******************** ENTRY / EXIT POINTS                                                           
 *                                                                     *                                  
 *     THIS SEGMENT CALLED BY:                                         *                                             
-*     -------------------------------                                 *
-*     RIK2                                                            *
-*                                                                     *
-*     THIS SEGMENT CALLS:                                             *
+*     -------------------------------
+*     RIK2
+*
+*     THIS SEGME
 *     -------------------------------                                 *
 *                                                                     *
 *     ENTRC  FACE                                                     *
