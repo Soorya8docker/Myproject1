@@ -31,10 +31,9 @@
 *     MACROS, GLOBALS, EQUATES,                                 
 *     -------------------------------                                 *
 *     #EIF #ESUB #GOTO #IF #LOCA #PERF                             
-*     #SSAAT #SUBR ATTAC BACKC DBCLS DBOPN                            *
-*     DBRED DETAC DREC1G ENTRC FACE GETCC GGD                         *
-*     GGDE IR0IR RELCC SW00SR S70S7 WA0AA                             *
-*     WK0SS                                                           *
+*     #SSAAT #SUBR ATTAC BACKC DBCLS DB                                    
+*     DBRED DETAC DREC1G ENTRC                         
+*     GGDE IR0IR RELCC SW00SR                                        
 *                                                                     *
 *@END******************************************************************
          EJECT               
