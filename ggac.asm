@@ -47,9 +47,9 @@
 *         FIELD 'WA0NOI'INSTEAD OF TWO BYTES OF  FIELD 'WA0OUR'.   @01*
 *@END******************************************************************
  
-         EJECT           
-*@OU************** LEVEL/ECB/REGISTER USAGE                           
-*                                  
+         EJECT                                      
+*@OU************** LEVEL/ECB/REGISTER USAGE                                               
+*                                                          
 *                                                                     *
 *    "THIS AREA DEFINES THE USAGE OF LEVELS, ECB, AND REGISTERS."     *
 *                                                                     *
